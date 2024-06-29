@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <head> 
+        <meta charset="UTF-8">  
+        <title>"My Resume"</title>
+    </head>
+
+    <body>
+         <h1>Welcome To My Resume</h1>
+        <h2> About Bill</h2>
+           <p>Bill is a skilled hardworking coder 
+            who is capable of delivering, 
+            designing and building 
+            high quality websites on time,
+            that will contibute massively to the success of your bussiness, brand, or company.
+            He's someone with experience and understanding of new tech and marketing.
+          </p>
+             <h3>Education And Degree</h3>
+             <p>1. London App Brewery - London's Leading
+                Programing bootcamp. Certificate in web development/designing and coding.
+
+             <p> 2. Marketing</p>
+             </p>
+                <h3> Work Experience</h3>
+                
+                
+                <h4>Skills</h4> <ol>
+                   <li> Designing </li>  
+                    <li> Speed and acuracy</li>
+                     <li> Ai</li>
+                     <li>Programing</li>
+                     <li>Marketing</li>
+                     <li>Web development</li>
+
+                 <h4>Awards</h4>
+                    
+                </ol>
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer> Bill Kennedy's Resume</footer>
+
+</html>
